@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Roshan+Kumar+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumar13757&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumar13757" /> </p>
